@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from notification-system-simulation!")
+"""Notification system simulation package."""

@@ -196,7 +196,7 @@ def main() -> None:
             else:
                 # Eligible notifications are always stored in the application
                 print(
-                    f"[STORED ONLY] {user.get("username")} | "
+                    f"[STORED ONLY] {username} | "
                     f"Not sent to device because the user is logged out"
                 )
 
